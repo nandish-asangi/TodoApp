@@ -9,7 +9,7 @@
             "host": "localhost",
             "user": "root",
             "password": "root",
-            "database": "todoapp",
+            "database": "bch",
             "multipleStatements": true,
             "connectionLimit": 100
         }
