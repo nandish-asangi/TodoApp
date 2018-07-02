@@ -1,0 +1,17 @@
+{
+    "app": {
+        "env": "dev",
+        "debug": 0
+    },
+    "db": {
+        "mysql": {
+            "name": "local",
+            "host": "localhost",
+            "user": "root",
+            "password": "root",
+            "database": "todoapp",
+            "multipleStatements": true,
+            "connectionLimit": 100
+        }
+    }
+}
