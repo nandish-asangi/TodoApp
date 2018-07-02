@@ -9,7 +9,7 @@
             "host": "localhost",
             "user": "root",
             "password": "root",
-            "database": "bch",
+            "database": "db_name",
             "multipleStatements": true,
             "connectionLimit": 100
         }
